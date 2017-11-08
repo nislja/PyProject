@@ -1,0 +1,7 @@
+ormar/Ormar je deo namestaja u stanovima, kancelarijama i radnim prostorijama.Ormari su namenjeni za smestaj odece, posteljine, knjiga i drugih kucnih ili radnih stvari. Najcesce se proizvode od drveta i lima a u novije vreme i od drugih savremenih materijala./False
+fotelja/Fotelja je vrsta komforne stolice najcesce izradjene od drveta.Njeno sediste i naslon oblozeni su mekim materijalom,moze imati naslon za ruke./False
+vitrina/Vitrina je vrsta namestaja koji se najcesce pravi od drveta,ima cetri nogara,fioke i police.Sluzi za drzanje raznih sitnica, na njoj moze stajati televizor itd./False
+stolica/Stolica je komad namestaja koji sluzi za sedenje. Sastoji se od dela na kome se sedi, naslona i ponekad naslona za ruke. Uglavnom je stolica namenjena za jednu osobu./False
+sto/Sto je vrsta namestaja koji moze da sluzi da se na njemu uci,jede ili bilo sta drugo./False
+Krevet/Krevet je deo namestaja prvenstveno koriscen kao mesto na kome se moze lezati za vreme sna a moze posluziti i u drugim prilikama kada je udobno ili pozeljno da telo bude u lezecem polozaju. oblici i velicine kreveta veoma variraju./False
+kauc/Kauc je deo namestaja i podrazumeva moderan krevet sa naslonima koji moze sluziti i za sedenje./False

@@ -1,0 +1,2 @@
+montaza/Montiranje namestaja/10000/False
+prevoz/Prevoz namestaja/5000/False

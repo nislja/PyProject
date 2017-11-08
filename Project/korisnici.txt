@@ -1,0 +1,4 @@
+username1/name1/lname1/password1/menadzer/False
+username2/name2/lname2/password2/prodavac/False
+username3/name3/lname3/password3/prodavac/False
+username4/name4/lname4/password4/prodavac/False

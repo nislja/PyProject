@@ -1,0 +1,10 @@
+0/username2/28-01-2016/11:02:59/Ormar-Hana$Ormar-2k50/001|003/2^2/22000*22000/ormar-ormar///88000/False
+1/username2/28-01-2016/11:03:15/Atlas-fotelja$Krevet-fliper/104|502/2^16/22000*30000/fotelja-krevet/5000/prevoz/529000/False
+2/username2/28-01-2016/11:03:44/Diplomat-delux$Kauc-X200/302|601/1^1/4000*25000/stolica-krevet/10000/montaza/39000/False
+3/username2/28-01-2016/11:04:10/Ormar-Hana$Moica-Lux$Intero-Vitrina$Sto-kuhinjski/001|103|202|401/1^1^1^1/22000*24000*30000*10000/ormar-fotelja-vitrina-sto///86000/False
+4/username4/28-01-2016/13:33:48/Vitrina-royal/203/4/25000/vitrina/10000/montaza/110000/False
+5/username4/28-01-2016/13:40:48/Ormar-Luna$Atlas-fotelja$Krevet-delux/002|104|501/4^1^5/50000*22000*30000/ormar-fotelja-krevet/10000/montaza/382000/False
+6/username2/09-02-2016/03:39:13/Ormar-2k50/003/1/22000/ormar/10000/montaza/32000/False
+7/username2/09-02-2016/03:44:47/Diplomat$Sto-kuhinjski$Kauc-X200/301|401|601/1^2^1/3000*10000*25000/stolica-sto-krevet///48000/False
+8/username2/09-02-2016/03:49:10/Ormar-Luna$Vitrina-Galaxy$Sto-kuhinjski/002|201|401/2^2^1/50000*40000*10000/ormar-vitrina-sto///190000/False
+9/username3/09-02-2016/18:42:40/Ormar-Luna$Relax-SG$as/1|4|22/3^6^10/50000*5000*100000/ormar-fotelja-vitrina/10000/montaza/1190000/False
